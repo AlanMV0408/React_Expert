@@ -1,11 +1,9 @@
 
 
-
 const SongDetails = () => {
-
     return (
         <div>
-            <h1>Lado derecho</h1>
+            Aquí va SongDetails
         </div>
     )
 }
