@@ -7,10 +7,10 @@ const Home = () => {
         <>
             <SongProvider>
                 <SongList>
-                    <SongDetails>
-                        
-                    </SongDetails>
                 </SongList>
+                
+                <SongDetails>
+                </SongDetails>
             </SongProvider>
         </>
     );
