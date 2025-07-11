@@ -1,10 +1,10 @@
-
+import Home from './pages/Home';
 
 function App() {
-  
+
   return (
     <>
-    <h1>React Context Example</h1>
+      <h1>React Context Example</h1>
     </>
   )
 }
